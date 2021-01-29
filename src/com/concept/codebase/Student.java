@@ -7,4 +7,8 @@ public class Student {
 		return "Hardware";
 	}
 	
+	public static void main(String[] args) {
+		
+	}
+	
 }
